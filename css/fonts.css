@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Poppins-ExtraLight';
+    src: url(../fonts/Poppins/Poppins-ExtraLight.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url(../fonts/Poppins/Poppins-Regular.ttf);
+    font-weight: 400;
+}
+
+
+@font-face {
+    font-family: 'Montserrat-ExtraLightItalic';
+    src: url(../fonts/Montserrat/Montserrat-ExtraLight.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url(../fonts/Montserrat/Montserrat-Bold.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
+    font-weight: 400;
+}
